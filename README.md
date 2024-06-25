@@ -7,6 +7,7 @@ O intuito foi conhecer a ferramenta, aplicando as lógicas nescessárias e integ
 Obs: cria um usuário e teste as funcionalidades ou acesse com estas credenciais de teste.
 
 email: clienteteste@gmail.com
+
 senha: 123456
 
 
