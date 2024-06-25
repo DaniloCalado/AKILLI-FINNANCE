@@ -1,5 +1,5 @@
 # AKILLI-FINNANCE
-O objetivo deste projeto foi aprender a criar um aplicativo mobile com responsividade que faz a gestão financeira do usuário.
+O objetivo deste projeto foi aprender a criar um aplicativo com foco em mobile com responsividade web que faz a gestão financeira do usuário.
 O intuito foi conhecer a ferramenta, aplicando as lógicas nescessárias e integração com banco de dados.
 
  acesse: https://akilli-finnance.flutterflow.app
